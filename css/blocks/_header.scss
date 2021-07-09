@@ -1,13 +1,13 @@
 //Вложенность
 .menu {
 	background: #fff;
-	color: #292929;
+	color: #b92525;
 	display: flex;
 	&__list {
 		display: flex;
 	}
 	&__item {
-		width: 20%;
+		width: 40%;
 		margin-right: 10px;
 		&:last-child {
 			margin-right: 0;
